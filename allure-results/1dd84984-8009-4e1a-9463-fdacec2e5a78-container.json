@@ -1,0 +1,1 @@
+{"uuid":"1dd84984-8009-4e1a-9463-fdacec2e5a78","name":"FoundationTestNgFrameWork","children":["41102e66-a9ac-4f33-83a2-03224b626832"],"befores":[{"name":"set","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1722781577553,"stop":1722781577563}],"afters":[],"start":1722781577528,"stop":1722781591338}

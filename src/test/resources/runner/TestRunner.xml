@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="register and login tests">
+    <listeners>
+        <listener class-name="com.automation.Listners.TestListener"/>
+        <listener class-name="com.automation.Listners.AllureListener"/>
+    </listeners>
+    <test name="Login and register web">
+        <classes>
+            <class name="com.automation.tests.CiloryTest"/>
+        </classes>
+    </test>
+</suite>
